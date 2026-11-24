@@ -1,0 +1,331 @@
+[
+ {
+  "id": "0476ce66-3865-4d54-82c3-77ac54bfa0a6",
+  "type": "bicycle",
+  "label": "Bicycle",
+  "color": "#5be59b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}, {\"key\": \"status\", \"locked\": false, \"values\": [\"parked\"]}]"
+ },
+ {
+  "id": "09feab27-e7ed-4168-b320-a69d0090bda0",
+  "type": "intersection",
+  "label": "Intersection",
+  "color": "#e55b5b",
+  "default_properties": "[{\"key\": \"control_type\", \"locked\": true, \"values\": [\"signalized\", \"roundabout\", \"uncontrolled\", \"signalized railroad crossing\", \"2-way-stop\", \"1-way-stop\", \"3-way-stop\", \"part of a roundabout\", \"uncontrolled, side road merges into main\", \"1-way-stop'\", \"pedestrian crossing island\", \"all-way-stop\"]}, {\"key\": \"number_of_arms\", \"locked\": true, \"values\": [\"3\", \"4\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"as indicated by sign(s), trains cross this intersection without signal, requiring extra caution by the driver\"]}, {\"key\": \"description\", \"locked\": true, \"values\": [\"railroad crossing\"]}, {\"key\": \"type\", \"locked\": true, \"values\": [\"t-junction\", \"part of a roundabout\"]}]"
+ },
+ {
+  "id": "0a0ecc2b-2405-4e29-b864-121e05d7ba72",
+  "type": "stop_sign",
+  "label": "Stop Sign",
+  "color": "#5be586",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"sign attached to bus, folded in\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"is a mobile sign mounted on a school bus, and hence might not be in use\"]}, {\"key\": \"meaning\", \"locked\": true, \"values\": [\"do not enter\", \"3-way-stop\"]}]"
+ },
+ {
+  "id": "0bebb24b-8fc6-4ccd-a711-9850061f5d75",
+  "type": "bicyclist",
+  "label": "Bicyclist",
+  "color": "#5b9be5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"crosses ego lane\", \"<no hazard>\", \"is cycling over crossing and ego needs to yield\"]}]"
+ },
+ {
+  "id": "1007d66f-47eb-4db8-a1d8-16bce6f844b6",
+  "type": "truck",
+  "label": "Truck",
+  "color": "#5bc5e5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"post truck\", \"construction truck\", \"white construction truck\", \"UPS truck\", \"fed ex truck\", \"black truck\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"is stopped at the side of the road, but might resume driving soon. Might also occlude smaller sideroads or road users\", \"is cutting into the ego lane\", \"<no hazard>\", \"potentially hides vulnerable road users\", \"is cutting into the ego lane from his parking position\", \"is approaching from the side street, potentially cutting into the ego's path\", \"is driving between the lanes\"]}, {\"key\": \"status\", \"locked\": false, \"values\": [\"stopped\", \"stopped at the traffi clight\", \"stopped at the red light\"]}, {\"key\": \"illegal_behaviour\", \"locked\": false, \"values\": [\"is cutting into the ego lane\"]}]"
+ },
+ {
+  "id": "1b1eca2d-aba9-48a0-8637-2c74cc03a29f",
+  "type": "vehicular_trailer",
+  "label": "Vehicular Trailer",
+  "color": "#5b86e5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "226b41fd-a107-4e78-9d80-9b204135b622",
+  "type": "truck_cab",
+  "label": "Truck Cab",
+  "color": "#5b70e5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"truck\"]}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "2c09c5d0-d333-4872-a16c-5b9c4bd3263f",
+  "type": "wheeled_device",
+  "label": "Wheeled Device",
+  "color": "#5be5c5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "31fdcbe6-066d-44ac-bbb5-10db37837b4c",
+  "type": "lane",
+  "label": "Lane",
+  "color": "#e5705b",
+  "default_properties": "[{\"key\": \"type\", \"locked\": true, \"values\": [\"VEHICLE\", \"BUS\", \"BIKE\", \"PARKING\", \"VEHICLE share the road with BIKES\", \"VEHICLE with street parking\", \"BUS and BIKE\", \"VEHICLE share the road with BIKES'\", \"VEHICLE share the road with BIKES and street parking\", \"VEHICLE blocked due to construction work\"]}, {\"key\": \"direction\", \"locked\": true, \"values\": [\"same\", \"opposite\"]}, {\"key\": \"hazard\", \"locked\": false}, {\"key\": \"description\", \"locked\": true}, {\"key\": \"turn_direction\", \"locked\": true, \"values\": [\"right, straight\", \"straight\", \"left, straight\", \"left\", \"none, leads away from intersection\", \"right, left, straight\", \"slight left\", \"right\"]}, {\"key\": \"variant\", \"locked\": true, \"values\": [\"separated from main road with bollards\", \"green paint\", \"one-way\", \"no entry\", \"turn lane (both directions)\"]}, {\"key\": \"traffic_pattern\", \"locked\": true, \"values\": [\"one-way\", \"do not enter\"]}]"
+ },
+ {
+  "id": "390df613-ab61-45ea-a118-1f4bc6bea8a8",
+  "type": "motorcyclist",
+  "label": "Motorcyclist",
+  "color": "#5b5be5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "42ecd5c6-44de-4628-befb-6af66527c447",
+  "type": "sign",
+  "label": "Traffic Sign",
+  "color": "#e5865b",
+  "default_properties": "[{\"key\": \"category\", \"locked\": true, \"values\": [\"regulatory\", \"warning\", \"information\", \"construction\", \"decoration, not a traffic sign\", \"speed limit\"]}, {\"key\": \"shape\", \"locked\": true, \"values\": [\"circle\", \"triangle\", \"rectangle\", \"octagon\", \"trapezoid\", \"diamond\"]}, {\"key\": \"type\", \"locked\": true, \"values\": [\"stop\", \"yield\", \"one way only\", \"constuction\", \"yield to bikes crossing the railroad tracks ahead\", \"road closed ahead\"]}, {\"key\": \"vehicle type it applies to\", \"locked\": true, \"values\": [\"VEHICLE\", \"BUS\", \"BIKE\", \"PEDESTRIANS\"]}, {\"key\": \"meaning\", \"locked\": true, \"values\": [\"left turn allowed\", \"left turn prohibited\", \"speed limit is 25 miles per hour\", \"entering this lane prohibited\", \"bikes might be crossing the railroad tracks ahead\", \"bikes might be crossing the railroad tracks ahead, which vehicles need to yield to\", \"continue straight or turn right\", \"lane has to merge left\", \"continue straight or turn left\", \"right lane must turn right (except buses)\", \"bikes share the road\", \"bikes share the road with vehicles\", \"no_right_turn\", \"road closed\", \"no parking or stopping\", \"drivers must be aware of changes in traffic patterns on the road ahead\", \"drivers must expect road work to be happening ahead\", \"officer signaler are ahead in the construction zone\", \"vehicles may drive ahead at low speed\", \"pedestrians can no longer use this sidewalk due to construction work\", \"left lane closed ahead\", \"no meaning, since it's a decorative sign\", \"turn_left or go_straight\", \"traffic controller ahead\", \"road work ahead\", \"detour to the left\", \"lane closed\", \"traffic flows now both ways in two lanes that used to be in one direction\", \"detour, road closed for through traffic\", \"turn_right or go straight\", \"slight_left or left\", \"one way\", \"do not enter\", \"vehicles are not allowed to turn right on red light\", \"pass right of curb\", \"speed limit is 15mph (if children are present)\", \"speed limit is 15mph (if children are present, currently not present)\", \"vehicles yield to pedestrians\", \"no_right_turn except bus or bike\", \"do not enter (except bus and bike)\", \"turning vehicles need to yield when traffic light is green\", \"detour to the right\", \"right lane must turn right\", \"speed limit is 30 miles per hour\", \"no_left_turn'\", \"no_left_turn\", \"no_turns except bus or bike\", \"no_left_turn for trucks\", \"stop before line on red light\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"the text below the sign is not clearly legible, making the meaning of it less clear\", \"Vehicles can not turn right here\", \"Vehicles can not right turn\", \"no_right_turn\", \"traffic controller present on road\", \"potentially involves workers on road\", \"warns that there is a traffic controller present on the road and that vehicles should drive carefully not to endanger him\"]}, {\"key\": \"description\", \"locked\": true, \"values\": [\"\", \"sign which is mounted to the left side on a pole below a pedestrian traffic light\", \"leftmost sign which is mounted on the red-white barriers\", \"rightmost sign which is mounted on the red-white barriers\", \"sign which is mounted on the red-white barriers\", \"yellow sign\", \"orange sign\", \"oran\"]}, {\"key\": \"location\", \"locked\": true, \"values\": [\"on sidewalk\", \"far side of intersection\", \"left exit side of intersection\", \"mounted on a pole at the right side of the road\", \"mounted above the road between the traffic lights\", \"mounted on a lamp post at the right side of the road\", \"mounted above the road next to the traffic lights\"]}]"
+ },
+ {
+  "id": "49aa4e9e-dcf6-4a61-8096-892d312be7af",
+  "type": "bollard",
+  "label": "Bollard",
+  "color": "#70e55b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "4b343410-9611-4e74-9931-3c78eed13064",
+  "type": "railed_vehicle",
+  "label": "Railed Vehicle",
+  "color": "#e55bb0",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"status\", \"locked\": false, \"values\": [\"parked\", \"driving\", \"braking\"]}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "4e820b83-a084-4d4d-bd03-cfd07aa749a4",
+  "type": "wheelchair",
+  "label": "Wheelchair",
+  "color": "#e55bc5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "5198f890-35f1-4aac-bee2-ddd4b23d4e0f",
+  "type": "lane_divider",
+  "label": "Lane Divider",
+  "color": "#b96e6e",
+  "default_properties": "[{\"key\": \"variant\", \"locked\": true, \"values\": [\"curb-like\"]}, {\"key\": \"role\", \"locked\": true, \"values\": [\"separates the two driving directions physically\"]}, {\"key\": \"hazard\", \"locked\": false}, {\"key\": \"description\", \"locked\": true}]"
+ },
+ {
+  "id": "5e380f6a-fd51-4b21-82ba-b2dc634b96ec",
+  "type": "road_marking",
+  "label": "Marking",
+  "color": "#e59b5b",
+  "default_properties": "[{\"key\": \"type\", \"locked\": true, \"values\": [\"cross-hatched area\", \"bike marking\", \"speed limit\", \"bike stop line\", \"faded stop line (no longer in use)\", \"bike share the road\", \"bus only\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"stop line has been shifted backwards. Old marking could create confusion\"]}, {\"key\": \"meaning\", \"locked\": true, \"values\": [\"bikes share lane with vehicles\", \"speed limit is 25MPH\", \"no meaning, since no longer valid road marking\", \"turn_right or straight\", \"slight left or straight\", \"this lane is reserved to bus only\", \"turn_right + only\", \"turn_left + only\", \"turn_right\", \"turn_left or straight\"]}, {\"key\": \"description\", \"locked\": true}]"
+ },
+ {
+  "id": "63e909ce-a12b-4e9a-bf84-ed4a66f29663",
+  "type": "articulated_bus",
+  "label": "Articulated Bus",
+  "color": "#c55be5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "65c5785e-d57b-4d16-baa5-a4160594b5a9",
+  "type": "traffic_light",
+  "label": "Traffic Light",
+  "color": "#e5b05b",
+  "default_properties": "[{\"key\": \"status\", \"locked\": false, \"values\": [\"red\", \"yellow\", \"green\", \"unknown\"]}, {\"key\": \"type\", \"locked\": true, \"values\": [\"vehicle\", \"pedestrian\", \"bicycle\", \"green diagonal arrow\", \"vertical arrow\", \"diagonal arrow\", \"left arrow\", \"right_arrow\"]}, {\"key\": \"mount\", \"locked\": true, \"values\": [\"overhead\", \"side_pole\"]}, {\"key\": \"hazard\", \"locked\": false}, {\"key\": \"meaning\", \"locked\": true, \"values\": [\"turn right into roundabout\", \"continue forward\"]}, {\"key\": \"description\", \"locked\": true, \"values\": [\"leftmost traffic light\", \"rightmost traffic light\"]}]"
+ },
+ {
+  "id": "6ddc5d78-afd0-4118-9329-c668b513f014",
+  "type": "construction_area",
+  "label": "Construction Site",
+  "color": "#1611cc",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"road workers can be present\", \"is forcing the vehicles in opposite directions to share a single lane\", \"road workers are present and could enter the road\"]}]"
+ },
+ {
+  "id": "7114bedf-fb02-49bd-8b99-3fb9cf7d089f",
+  "type": "traffic_light_trailer",
+  "label": "Traffic Light Trailer",
+  "color": "#e55b86",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "73f7d251-de9e-4ceb-bd88-99a2c67f5d1c",
+  "type": "curb",
+  "label": "Curb",
+  "color": "#e5c55b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "764c591b-83ef-4499-baa8-cb47aadd2ea7",
+  "type": "bus",
+  "label": "Bus",
+  "color": "#5be5da",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"blue bus\", \"red bus\", \"bus not in service\", \"red bus with malfunctioning number display\", \"red bus destined to east liberty garage\", \"bus from company Smart travelling in same direction as ego\", \"bus to the right\", \"bus to the left\", \"blue bus ahead\", \"red bus'\", \"express bus\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"is stopped but might resume driving and merge into neighboring lanes\", \"is stopped in the middle of the road, and is letting passengers on and off unprotectedly\", \"<no hazard>\", \"is stopped at a bus stop, but might resume driving soon\", \"potentially hiding vulnerable road users\", \"potentially hides vulnerable road users and occludes traffic lights for intersection\"]}, {\"key\": \"status\", \"locked\": false, \"values\": [\"driving\", \"stopped\", \"stopped at bus stop\", \"departing from bus stop\"]}]"
+ },
+ {
+  "id": "78602114-b82b-4481-848a-cc66f2569ba1",
+  "type": "dog",
+  "label": "Dog",
+  "color": "#705be5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "83207b9a-b20d-4dd3-b34a-d5d1ad3141b2",
+  "type": "mobile_pedestrian_sign",
+  "label": "Mobile Pedestrian Sign",
+  "color": "#e55bda",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "87284258-60ee-482f-8246-0a36e97ecac5",
+  "type": "stroller",
+  "label": "Stroller",
+  "color": "#b05be5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "884d9328-0fe1-41be-8ff4-049a3c4b530d",
+  "type": "parked_cars",
+  "label": "Parked Cars",
+  "color": "#cccccc",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"vulnerable road users might be occluded or walk out on the road suddenly\"]}]"
+ },
+ {
+  "id": "94be74bf-e62d-4270-a042-5c0038ab0fcd",
+  "type": "sidewalk",
+  "label": "Sidewalk",
+  "color": "#e5da5b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"right sidewalk\"]}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "95677ae6-6265-4523-9b50-f3d7ec69a7f3",
+  "type": "mobile_pedestrian_crossing_sign",
+  "label": "Mobile Crossing Sign",
+  "color": "#e72323",
+  "default_properties": "[{\"key\": \"meaning\", \"locked\": true, \"values\": [\"turning vehicles must yield to bikes\"]}]"
+ },
+ {
+  "id": "9d7754ca-310d-45be-8f8c-ec75fb387c47",
+  "type": "crossing",
+  "label": "Crossing",
+  "color": "#dae55b",
+  "default_properties": "[{\"key\": \"marking_style\", \"locked\": true, \"values\": [\"zebra\", \"ladder\", \"unmarked\", \"white outlined rectangle\"]}, {\"key\": \"signalized\", \"locked\": true, \"values\": [\"true\", \"false\"]}, {\"key\": \"hazard\", \"locked\": false}, {\"key\": \"description\", \"locked\": true, \"values\": [\"crossing straight ahead\", \"crossing to the left\", \"crossing to the right\", \"crossing at the far side\", \"crossing to the right'\", \"crossing to the l\"]}, {\"key\": \"marking_quality\", \"locked\": true, \"values\": [\"faded in parts\", \"clearly marked\", \"faded in parts but still visible\", \"faded and hardly visible\"]}]"
+ },
+ {
+  "id": "9e8cb4f7-d8c7-4aa9-93d1-14238b13d47e",
+  "type": "construction_cone",
+  "label": "Construction Cone",
+  "color": "#5be55b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"indicate slow down\"]}]"
+ },
+ {
+  "id": "a202d85a-57b5-4807-b460-e22a17beba25",
+  "type": "box_truck",
+  "label": "Box Truck",
+  "color": "#5bdae5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"yellow truck\", \"White truck in front\", \"white box truck\", \"white box truck with open rear doors\", \"white box truck with closed rear doors\", \"FedEx box truck\", \"black box truck\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"is stopped in the middle of the lane for unloading, blocking the path for others and shielding view\", \"<no hazard>\", \"stops in the intersection to yield and blocks view\", \"is potentially hiding vulnerable road users\", \"is parked on crossing hence might force vulnerable road users to use road\", \"is a delivery truck and its driver could climb out any moment\", \"is yielding to occluded pedestrians\", \"is yielding to partially occluded pedestrians\", \"is yielding to pedestrians\"]}, {\"key\": \"status\", \"locked\": false, \"values\": [\"parked\", \"stopped\", \"yielding\", \"driving\", \"yi\"]}]"
+ },
+ {
+  "id": "a378f71b-d78e-4e02-8e84-82a4d76c4b10",
+  "type": "motorcycle",
+  "label": "Motorcycle",
+  "color": "#5bb0e5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "ac000bf1-8097-45c5-be21-6bdeb7ef5845",
+  "type": "regular_vehicle",
+  "label": "Regular Vehicle",
+  "color": "#9be55b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"red sedan\", \"white sedan\", \"white pickup\", \"white audi\", \"white toyota\", \"dark pickup\", \"silver toyota\", \"black jeep\", \"grey SUV\", \"red vehicle ahead\", \"black sedan\", \"silver sedan\", \"black SUV\", \"black Hyundai\", \"black S\", \"taxi\", \"white SUV\", \"taxi to the right\", \"red SUV\", \"silver SUV\", \"silver toyota sedan\", \"silver Hyundai sedan\", \"gray Kia\", \"grey Dodge\", \"autonomous vehicle\", \"white Hyundai\", \"gray Honda\", \"yellow cab\", \"grey Hyundai\", \"white pickup to the right\", \"red vehicle\", \"black vehicle ahead\", \"silver pickup\", \"black vehicle with flame design\", \"yellow car\", \"black pick-up truck\", \"blue sedan\", \"black pick\", \"vehicle driving from right to left\", \"white VAN\", \"dark SUV\", \"red Jeep\", \"silver jeep suv\", \"white VAN on the main road\", \"black nissan\", \"white VAN to the left side\", \"metallic red car\", \"metallic red car on the main road\", \"black BMW SUV\", \"black Ford SUV ahead\", \"dark grey SUV\", \"white VW\", \"yellow\", \"black mercedes\", \"white Chevrolet truck\", \"white Chevrolet pickup truck\", \"red metallic vehicle\", \"metallic red sedan\", \"metallic orange SUV\", \"white pickup truck\", \"whote car\", \"white car\", \"red-brown sedan\", \"white car to the right\", \"white SUV ahead\", \"metallic orange car\", \"white van\", \"black chevrolet pickup\", \"large wgite vehicle\", \"black V!\", \"black VW\", \"grey sedan\", \"white S\", \"black v\", \"black vehi\", \"black vehiicle\", \"black vehicle\", \"black pickup truck\", \"red mini\", \"white green pickup truck\", \"metro access VAN\", \"grey VW\", \"silver Hyundai\", \"red brown SUV\", \"yellow van\", \"police car\", \"green race car\", \"white large car\", \"red S\", \"silver J\", \"silver Jeep\", \"black sedan ahead\", \"black gmc truck\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"<no hazard>\", \"leaves parking space and enters driving area\", \"swings left and crosses the ego's lane\", \"is crossing ego lane\", \"could potentially cut into main road if vehicle neglects stop sign\", \"enters ego lane\", \"is braking, potentially for an occluded hazard ahead\", \"is coming to a stop, to avoid a jaywalker\", \"<\", \"<n\", \"overtakes in intersection and does not respect lanes\", \"is stopped / parked in driving lane\", \"is stopped in driving lane, but could potentially resume driving anytime\", \"is standing still before intersection and forces other vehicles to change lane\", \"is yielding to pedestrians, hence not clearing the intersection in time\", \"is approaching intersection with an unprotected left turn, hence need to yield\", \"is cutting into ego lane\", \"is using two lanes at the same time\", \"is yielding to traffic in opposite direction at left turn, thus causing a delay for through traffic in the ego lane\", \"is driving in the opposite direction in the ego lane to avoid an obstacle\", \"abruptly slows down after intersection\", \"cuts into ego lane\", \"is stopped in the driving lane to let passengers on or off\", \"cuts into ego lane right before intersection\", \"is parked, but its front is partly in the driving area\", \"abruptly changes lane to avoid stopped vehicle ahead\"]}, {\"key\": \"status\", \"locked\": false, \"values\": [\"\", \"parked\", \"driving\", \"stopped\", \"yielding to pedestrians\", \"braking\", \"yielding\", \"waiting at the red light\", \"par\"]}, {\"key\": \"illegal_behaviour\", \"locked\": false, \"values\": [\"cuts into ego lane from right lane\", \"turns left from rightmost lane and cuts into the ego path\", \"<no illegal behaviour>\", \"cuts into ego lane\", \"uses crosshatched side markings for overtaking stopped traffic\", \"is overtaking the ego on the wrong side in an intersection\"]}]"
+ },
+ {
+  "id": "ad48d882-6442-493a-9578-534b351b3340",
+  "type": "merge",
+  "label": "Lane Merge",
+  "color": "#ff5d05",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "bfcfc9bc-c6aa-468a-96b8-31c7d206d496",
+  "type": "large_vehicle",
+  "label": "Large Vehicle",
+  "color": "#5be5b0",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"emergency vehicle\", \"red bus\", \"RV\", \"fed-ex truck\", \"box truck\", \"garbage collection truck\", \"grey box truck\", \"yellow excavator\", \"small truck\", \"white van\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"is parked on the sidewalk and partially in the road\"]}, {\"key\": \"status\", \"locked\": false, \"values\": [\"driving\", \"parked\"]}]"
+ },
+ {
+  "id": "c1cbe015-caf8-4bd2-9375-ca48434cef3e",
+  "type": "message_board_trailer",
+  "label": "Message Board Trailer",
+  "color": "#da5be5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "cf9563a6-650c-49d8-a600-31a1bc836807",
+  "type": "animal",
+  "label": "Animal",
+  "color": "#e55b70",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "deb1a90a-3eb0-4d93-a82f-20383b6422e7",
+  "type": "barrier",
+  "label": "Guardrail",
+  "color": "#c5e55b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "df3ad5f4-ea08-483f-9e8a-725e0bb9c23e",
+  "type": "official_signaler",
+  "label": "Official Signaler",
+  "color": "#e55b9b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"is managing traffic flow, and vehicles should drive carefully to not endanger him\"]}]"
+ },
+ {
+  "id": "e40ac4d6-17a1-4293-8fdb-4595a5e87647",
+  "type": "school_bus",
+  "label": "School Bus",
+  "color": "#865be5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"has its mobile stop sign folded in, but might be misdetected as an actual stop sign\"]}]"
+ },
+ {
+  "id": "e70e9d88-fa77-4caf-bea3-75fb2372d69d",
+  "type": "bike_rack",
+  "label": "Bicycle Rack",
+  "color": "#1b74cc",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "ec54ec92-72f8-45a8-a76d-360de132967e",
+  "type": "railroad_tracks",
+  "label": "RailroadTracks",
+  "color": "#ba1212",
+  "default_properties": "[]"
+ },
+ {
+  "id": "eebde23d-abf7-4f2d-a5a2-ad2d804ba627",
+  "type": "pedestrian",
+  "label": "Pedestrian",
+  "color": "#86e55b",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true, \"values\": [\"woman with black dress\", \"woman with blue top\", \"man with dark opened umbrella\", \"man with dark clothes\", \"man with red hoodie\", \"man with white shirt\", \"man with purple shirt and black trousers\", \"woman with white top and blue jeans\", \"pedestrian with light blue shirt\", \"man with yellow t-shirt\", \"woman with blue top at the far side of the intersection\", \"group of pedestrians\", \"group of pedestrians at the far side of the intersection\", \"pedestrian within group at the far side of the intersection\"]}, {\"key\": \"hazard\", \"locked\": false, \"values\": [\"is exiting his vehicle and stepping onto the driving area\", \"is exiting his vehicle and stepping onto the road\", \"is checking his vehicle and might accidentally enter the driveway\", \"is crossing at the crosswalk and the ego needs to yield to the pedestrian\", \"is crossing despite red traffic light\", \"has left the bus and is now in the middle of the road unprotected\", \"<no hazard>\", \"is jaywalking\", \"is leaving the crossing area to walk around a stopped vehicle, potentially entering other lanes\", \"is walking in the lane alongside his vehicle\", \"is about to cross at the crossing, and turning vehicles need to yield\", \"is waiting at the edge of the road and might decide to cross\", \"is approaching the crosswalk with the intention to cross\", \"is standing at the crosswalk with the intention to cross\", \"is waiting at the crossing with the intention to cross\", \"is crossing the road\", \"is crossing the road and ego needs to yield\"]}, {\"key\": \"illegal_behaviour\", \"locked\": false, \"values\": [\"is jaywalking instead of using one of the other crossings\", \"<no illegal behaviour>\"]}]"
+ },
+ {
+  "id": "f086d44f-4fb2-469b-b14f-53ecf0adaefc",
+  "type": "wheeled_rider",
+  "label": "Wheeled Rider",
+  "color": "#9b5be5",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "f15c7edc-d29b-4812-bada-483885ba5c58",
+  "type": "split",
+  "label": "Lane Split",
+  "color": "#ed0c0c",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "f2e667ea-70d1-4ff8-9496-39b6109affac",
+  "type": "construction_barrel",
+  "label": "Construction Barrel",
+  "color": "#5be570",
+  "default_properties": "[{\"key\": \"description\", \"locked\": true}, {\"key\": \"hazard\", \"locked\": false}]"
+ },
+ {
+  "id": "f5623bb3-dfc0-409d-90e7-6145c92be5e7",
+  "type": "lane_line",
+  "label": "Lane Line",
+  "color": "#b0e55b",
+  "default_properties": "[{\"key\": \"mark_type\", \"locked\": true, \"values\": [\"DASH_SOLID_YELLOW\", \"DASH_SOLID_WHITE\", \"DASHED_WHITE\", \"DASHED_YELLOW\", \"DOUBLE_SOLID_YELLOW\", \"DOUBLE_SOLID_WHITE\", \"DOUBLE_DASH_YELLOW\", \"DOUBLE_DASH_WHITE\", \"SOLID_YELLOW\", \"SOLID_WHITE\", \"SOLID_DASH_WHITE\", \"SOLID_DASH_YELLOW\", \"SOLID_BLUE\", \"NONE\", \"UNKNOWN\"]}, {\"key\": \"hazard\", \"locked\": false}, {\"key\": \"quality\", \"locked\": true, \"values\": [\"partly faded\"]}]"
+ }
+]

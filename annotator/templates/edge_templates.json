@@ -1,0 +1,114 @@
+[
+ {
+  "category": "location",
+  "label": "approaches behind of"
+ },
+ {
+  "category": "location",
+  "label": "approaches to the left of"
+ },
+ {
+  "category": "location",
+  "label": "approaches to the right of"
+ },
+ {
+  "category": "location",
+  "label": "are in"
+ },
+ {
+  "category": "location",
+  "label": "continues ahead into"
+ },
+ {
+  "category": "location",
+  "label": "is changing into"
+ },
+ {
+  "category": "location",
+  "label": "is in"
+ },
+ {
+  "category": "location",
+  "label": "is left marking of"
+ },
+ {
+  "category": "location",
+  "label": "is left of"
+ },
+ {
+  "category": "location",
+  "label": "is on"
+ },
+ {
+  "category": "location",
+  "label": "is right marking of"
+ },
+ {
+  "category": "location",
+  "label": "is right of"
+ },
+ {
+  "category": "location",
+  "label": "leads to"
+ },
+ {
+  "category": "location",
+  "label": "leads up to"
+ },
+ {
+  "category": "location",
+  "label": "leaves"
+ },
+ {
+  "category": "location",
+  "label": "leaves behind of"
+ },
+ {
+  "category": "location",
+  "label": "leaves to the left of"
+ },
+ {
+  "category": "location",
+  "label": "leaves to the right of"
+ },
+ {
+  "category": "location",
+  "label": "splits into"
+ },
+ {
+  "category": "location",
+  "label": "turns left into"
+ },
+ {
+  "category": "location",
+  "label": "turns right into"
+ },
+ {
+  "category": "other",
+  "label": "cuts into"
+ },
+ {
+  "category": "other",
+  "label": "is crossing at"
+ },
+ {
+  "category": "other",
+  "label": "is impacting"
+ },
+ {
+  "category": "other",
+  "label": "is merging into"
+ },
+ {
+  "category": "other",
+  "label": "is parked outside of"
+ },
+ {
+  "category": "other",
+  "label": "parked outside of"
+ },
+ {
+  "category": "regulation",
+  "label": "controls"
+ }
+]
