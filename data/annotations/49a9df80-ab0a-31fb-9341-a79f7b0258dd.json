@@ -1,0 +1,2688 @@
+{
+  "nodes": [
+    {
+      "label": "Ego",
+      "type": "ego",
+      "helpers": {
+        "uuid": "ego",
+        "context": {
+          "0": "intersection_5",
+          "1": "intersection_5",
+          "2": "intersection_5",
+          "3": "intersection_5",
+          "4": "intersection_5",
+          "5": "intersection_5",
+          "6": "intersection_5",
+          "7": "intersection_5",
+          "8": "intersection_5",
+          "9": "intersection_5",
+          "10": "intersection_5",
+          "11": "intersection_5",
+          "12": "intersection_5",
+          "13": "intersection_5",
+          "14": "intersection_5",
+          "15": 29890169,
+          "16": 29890169,
+          "17": 29890169,
+          "18": 29890169,
+          "19": 29890169,
+          "20": 29890169,
+          "21": 29890169,
+          "22": 29890169,
+          "23": 29890169,
+          "24": 29890169,
+          "25": 29890169,
+          "26": 29890169,
+          "27": 29890169,
+          "28": 29890169,
+          "29": 29890169,
+          "30": 29890169,
+          "31": 29890169
+        }
+      }
+    },
+    {
+      "label": "Crossing-3",
+      "type": "crossing",
+      "properties": {},
+      "helpers": {
+        "uuid": 1837594,
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true
+      }
+    },
+    {
+      "label": "Crossing-4",
+      "type": "crossing",
+      "properties": {},
+      "helpers": {
+        "uuid": 1837705,
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true,
+          "12": true,
+          "13": true,
+          "14": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true
+      }
+    },
+    {
+      "label": "Crossing-5",
+      "type": "crossing",
+      "properties": {},
+      "helpers": {
+        "uuid": 1837703,
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true,
+          "12": true,
+          "13": true,
+          "14": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true
+      }
+    },
+    {
+      "label": "Crossing-6",
+      "type": "crossing",
+      "properties": {},
+      "helpers": {
+        "uuid": 1836864,
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true,
+          "12": true,
+          "13": true,
+          "14": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true
+      }
+    },
+    {
+      "label": "TrafficLight-12",
+      "type": "traffic_light",
+      "properties": {
+        "status": {
+          "0": "green",
+          "1": "green",
+          "2": "green",
+          "3": "green",
+          "4": "green",
+          "5": "green",
+          "6": "green",
+          "7": "green",
+          "8": "green",
+          "9": "green",
+          "10": "green"
+        }
+      },
+      "helpers": {
+        "uuid": "tl_03",
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    {
+      "label": "TrafficLight-13",
+      "type": "traffic_light",
+      "properties": {
+        "status": {
+          "0": "green",
+          "1": "green",
+          "2": "green",
+          "3": "green",
+          "4": "green",
+          "5": "green",
+          "6": "green",
+          "7": "green",
+          "8": "green"
+        }
+      },
+      "helpers": {
+        "uuid": "tl_02",
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "label": "TrafficLight-14",
+      "type": "traffic_light",
+      "properties": {
+        "status": {
+          "0": "red",
+          "1": "unknown",
+          "2": "red",
+          "3": "unknown",
+          "4": "red",
+          "5": "unknown",
+          "6": "red"
+        },
+        "type": "pedestrian"
+      },
+      "helpers": {
+        "uuid": "tl_05",
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true
+      }
+    },
+    {
+      "label": "Intersection-7",
+      "type": "intersection",
+      "properties": {},
+      "helpers": {
+        "uuid": "intersection_5",
+        "incoming_lanes": [
+          "29889611",
+          "29889714",
+          "29889715",
+          "29889840",
+          "29890149",
+          "29891119",
+          "29891440",
+          "29895673"
+        ],
+        "outgoing_lanes": [
+          "29888994",
+          "29889718",
+          "29890164",
+          "29890169",
+          "29890218",
+          "29890753",
+          "29891165",
+          "29895514"
+        ],
+        "pedestrian_crossings": [
+          "1836864",
+          "1837594",
+          "1837703",
+          "1837705"
+        ],
+        "turn_relations": [
+          {
+            "incoming": "29889611",
+            "outgoing": "29888994",
+            "turn": "left"
+          },
+          {
+            "incoming": "29889611",
+            "outgoing": "29890164",
+            "turn": "right"
+          },
+          {
+            "incoming": "29889611",
+            "outgoing": "29890753",
+            "turn": "straight"
+          },
+          {
+            "incoming": "29889714",
+            "outgoing": "29891165",
+            "turn": "straight"
+          },
+          {
+            "incoming": "29889714",
+            "outgoing": "29895514",
+            "turn": "right"
+          },
+          {
+            "incoming": "29889715",
+            "outgoing": "29890753",
+            "turn": "right"
+          },
+          {
+            "incoming": "29889715",
+            "outgoing": "29895514",
+            "turn": "straight"
+          },
+          {
+            "incoming": "29889840",
+            "outgoing": "29888994",
+            "turn": "straight"
+          },
+          {
+            "incoming": "29889840",
+            "outgoing": "29889718",
+            "turn": "left"
+          },
+          {
+            "incoming": "29889840",
+            "outgoing": "29890169",
+            "turn": "left"
+          },
+          {
+            "incoming": "29890149",
+            "outgoing": "29890169",
+            "turn": "right"
+          },
+          {
+            "incoming": "29890149",
+            "outgoing": "29890218",
+            "turn": "left"
+          },
+          {
+            "incoming": "29891119",
+            "outgoing": "29889718",
+            "turn": "right"
+          },
+          {
+            "incoming": "29891119",
+            "outgoing": "29890164",
+            "turn": "straight"
+          },
+          {
+            "incoming": "29891119",
+            "outgoing": "29891165",
+            "turn": "right"
+          },
+          {
+            "incoming": "29891440",
+            "outgoing": "29890218",
+            "turn": "straight"
+          },
+          {
+            "incoming": "29891440",
+            "outgoing": "29890753",
+            "turn": "left"
+          },
+          {
+            "incoming": "29895673",
+            "outgoing": "29889718",
+            "turn": "straight"
+          },
+          {
+            "incoming": "29895673",
+            "outgoing": "29890218",
+            "turn": "left"
+          },
+          {
+            "incoming": "29895673",
+            "outgoing": "29895514",
+            "turn": "right"
+          }
+        ],
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true
+      }
+    },
+    {
+      "label": "TrafficSign-1",
+      "type": "sign",
+      "properties": {
+        "meaning": "no_right_turn"
+      },
+      "helpers": {
+        "uuid": "rs_30",
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true
+      }
+    },
+    {
+      "label": "Lane-25",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE",
+        "direction": "opposite"
+      },
+      "helpers": {
+        "uuid": 29891440,
+        "left_neighbors": [],
+        "right_neighbors": [
+          "29891119"
+        ],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true
+      }
+    },
+    {
+      "label": "Lane-26",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE",
+        "direction": "opposite"
+      },
+      "helpers": {
+        "uuid": 29891119,
+        "left_neighbors": [
+          "29891440"
+        ],
+        "right_neighbors": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true
+      }
+    },
+    {
+      "label": "Lane-27",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE",
+        "direction": "opposite"
+      },
+      "helpers": {
+        "uuid": 29889840,
+        "left_neighbors": [],
+        "right_neighbors": [
+          "29889715"
+        ],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true
+      }
+    },
+    {
+      "label": "Lane-28",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE",
+        "direction": "opposite"
+      },
+      "helpers": {
+        "uuid": 29889715,
+        "left_neighbors": [
+          "29889840"
+        ],
+        "right_neighbors": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    },
+    {
+      "label": "Lane-29",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE blocked due to construction work",
+        "direction": "same",
+        "variant": "one-way"
+      },
+      "helpers": {
+        "uuid": 29891165,
+        "left_neighbors": [
+          "29890169"
+        ],
+        "right_neighbors": [],
+        "topoTL": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true,
+          "12": true,
+          "13": true,
+          "14": true,
+          "15": true,
+          "16": true,
+          "17": true,
+          "18": true,
+          "19": true,
+          "20": true,
+          "21": true,
+          "22": true,
+          "23": true,
+          "24": true,
+          "25": true,
+          "26": true,
+          "27": true,
+          "28": true,
+          "29": true,
+          "30": true,
+          "31": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "31": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "Lane-30",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE",
+        "direction": "same",
+        "variant": "one-way"
+      },
+      "helpers": {
+        "uuid": 29890169,
+        "left_neighbors": [],
+        "right_neighbors": [
+          "29891165"
+        ],
+        "topoTL": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true,
+          "12": true,
+          "13": true,
+          "14": true,
+          "15": true,
+          "16": true,
+          "17": true,
+          "18": true,
+          "19": true,
+          "20": true,
+          "21": true,
+          "22": true,
+          "23": true,
+          "24": true,
+          "25": true,
+          "26": true,
+          "27": true,
+          "28": true,
+          "29": true,
+          "30": true,
+          "31": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "31": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "Lane-31",
+      "type": "lane",
+      "properties": {
+        "type": "BIKE",
+        "direction": "same"
+      },
+      "helpers": {
+        "uuid": 29889718,
+        "left_neighbors": [
+          "29889611"
+        ],
+        "right_neighbors": [],
+        "topoTL": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true,
+          "12": true,
+          "13": true,
+          "14": true,
+          "15": true,
+          "16": true,
+          "17": true,
+          "18": true,
+          "19": true,
+          "20": true,
+          "21": true,
+          "22": true,
+          "23": true,
+          "24": true,
+          "25": true,
+          "26": true,
+          "27": true,
+          "28": true,
+          "29": true,
+          "30": true,
+          "31": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "31": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "Lane-32",
+      "type": "lane",
+      "properties": {
+        "type": "BIKE",
+        "direction": "opposite"
+      },
+      "helpers": {
+        "uuid": 29889611,
+        "left_neighbors": [
+          "29889718"
+        ],
+        "right_neighbors": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true,
+          "12": true,
+          "13": true,
+          "14": true,
+          "15": true,
+          "16": true,
+          "17": true,
+          "18": true,
+          "19": true,
+          "20": true,
+          "21": true,
+          "22": true,
+          "23": true,
+          "24": true,
+          "25": true,
+          "26": true,
+          "27": true,
+          "28": true,
+          "29": true,
+          "30": true,
+          "31": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "31": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "Lane-33",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE",
+        "direction": "same"
+      },
+      "helpers": {
+        "uuid": 29890218,
+        "left_neighbors": [],
+        "right_neighbors": [],
+        "topoTL": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true
+      }
+    },
+    {
+      "label": "Lane-34",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE",
+        "direction": "same"
+      },
+      "helpers": {
+        "uuid": 29890164,
+        "left_neighbors": [
+          "29890218"
+        ],
+        "right_neighbors": [],
+        "topoTL": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true,
+          "10": true,
+          "11": true,
+          "12": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true
+      }
+    },
+    {
+      "label": "Bicyclist-1",
+      "type": "bicyclist",
+      "properties": {},
+      "helpers": {
+        "uuid": "661c1ee4-f141-486b-8396-fc564ca75536",
+        "context": {
+          "0": "intersection_5",
+          "1": "intersection_5",
+          "2": "intersection_5",
+          "3": "intersection_5",
+          "4": "intersection_5",
+          "5": "intersection_5",
+          "6": 29889718,
+          "7": 29889718,
+          "8": 29889718,
+          "9": 29889718,
+          "10": 29889718,
+          "11": 29889718,
+          "12": 29889718,
+          "13": 29889718,
+          "14": null,
+          "15": null,
+          "16": null,
+          "17": 29890169,
+          "18": 29890169,
+          "19": 29890169,
+          "20": null,
+          "21": null,
+          "22": null,
+          "23": 29889718,
+          "24": 29889718,
+          "25": 29889718,
+          "26": 29889718,
+          "27": 29889718,
+          "28": 29889718,
+          "29": 29889718,
+          "30": 29889718,
+          "31": 29889718
+        },
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false,
+          "15": false,
+          "16": false,
+          "17": false,
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false,
+          "30": false,
+          "31": false
+        },
+        "uniqueKey": {
+          "0": [
+            "is unique"
+          ],
+          "1": [
+            "is unique"
+          ],
+          "2": [
+            "is unique"
+          ],
+          "3": [
+            "is unique"
+          ],
+          "4": [
+            "is unique"
+          ],
+          "5": [
+            "is unique"
+          ],
+          "6": [
+            "is unique"
+          ],
+          "7": [
+            "is unique"
+          ],
+          "8": [
+            "is unique"
+          ],
+          "9": [
+            "is unique"
+          ],
+          "10": [
+            "is unique"
+          ],
+          "11": [
+            "is unique"
+          ],
+          "12": [
+            "is unique"
+          ],
+          "13": [
+            "is unique"
+          ],
+          "14": [
+            "is unique"
+          ],
+          "15": [
+            "is unique"
+          ],
+          "16": [
+            "is unique"
+          ],
+          "17": [
+            "is unique"
+          ],
+          "18": [
+            "is unique"
+          ],
+          "19": [
+            "is unique"
+          ],
+          "20": [
+            "is unique"
+          ],
+          "21": [
+            "is unique"
+          ],
+          "22": [
+            "is unique"
+          ],
+          "23": [
+            "is unique"
+          ],
+          "24": [
+            "is unique"
+          ],
+          "25": [
+            "is unique"
+          ],
+          "26": [
+            "is unique"
+          ],
+          "27": [
+            "is unique"
+          ],
+          "28": [
+            "is unique"
+          ],
+          "29": [
+            "is unique"
+          ],
+          "30": [
+            "is unique"
+          ],
+          "31": [
+            "is unique"
+          ]
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "LaneLine-15",
+      "type": "lane_line",
+      "properties": {
+        "mark_type": "DASHED_WHITE"
+      },
+      "helpers": {
+        "uuid": "line_103",
+        "connected": [
+          "line_37",
+          "line_64"
+        ],
+        "left_of": [
+          "29890270",
+          "29890169"
+        ],
+        "right_of": [],
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false,
+          "15": false,
+          "16": false,
+          "17": false,
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true
+      }
+    },
+    {
+      "label": "LaneLine-16",
+      "type": "lane_line",
+      "properties": {
+        "mark_type": "DASHED_WHITE"
+      },
+      "helpers": {
+        "uuid": "line_104",
+        "connected": [
+          "line_65"
+        ],
+        "left_of": [
+          "29891165"
+        ],
+        "right_of": [
+          "29890169"
+        ],
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false,
+          "15": false,
+          "16": false,
+          "17": false,
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false,
+          "30": false,
+          "31": false
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "31": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "LaneLine-17",
+      "type": "lane_line",
+      "properties": {
+        "mark_type": "DASHED_YELLOW"
+      },
+      "helpers": {
+        "uuid": "line_116",
+        "connected": [],
+        "left_of": [
+          "29889718",
+          "29889611",
+          "29889606",
+          "29889734"
+        ],
+        "right_of": [],
+        "is_complete": {
+          "0": false,
+          "1": false,
+          "2": false,
+          "3": false,
+          "4": false,
+          "5": false,
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false,
+          "10": false,
+          "11": false,
+          "12": false,
+          "13": false,
+          "14": false,
+          "15": false,
+          "16": false,
+          "17": false,
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": [],
+          "9": [],
+          "10": [],
+          "11": [],
+          "12": [],
+          "13": [],
+          "14": [],
+          "15": [],
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": true,
+        "10": true,
+        "11": true,
+        "12": true,
+        "13": true,
+        "14": true,
+        "15": true,
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true
+      }
+    },
+    {
+      "label": "BoxTruck-1",
+      "type": "box_truck",
+      "properties": {
+        "status": {
+          "22": "parked",
+          "23": "parked",
+          "24": "parked",
+          "25": "parked",
+          "26": "parked",
+          "27": "parked",
+          "28": "parked",
+          "29": "parked",
+          "30": "parked",
+          "31": "parked"
+        }
+      },
+      "helpers": {
+        "uuid": "56fc13bc-2aba-4831-b8f6-a009bf618a74",
+        "context": {
+          "22": 29891165,
+          "23": 29891165,
+          "24": 29891165,
+          "25": 29891165,
+          "26": 29891165,
+          "27": 29891165,
+          "28": 29891165,
+          "29": 29891165,
+          "30": 29891165,
+          "31": 29891165
+        },
+        "is_complete": {
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false,
+          "30": false,
+          "31": false
+        },
+        "uniqueKey": {
+          "22": [
+            "is unique"
+          ],
+          "23": [
+            "is unique"
+          ],
+          "24": [
+            "is unique"
+          ],
+          "25": [
+            "is unique"
+          ],
+          "26": [
+            "is unique"
+          ],
+          "27": [
+            "is unique"
+          ],
+          "28": [
+            "is unique"
+          ],
+          "29": [
+            "is unique"
+          ],
+          "30": [
+            "is unique"
+          ],
+          "31": [
+            "is unique"
+          ]
+        }
+      },
+      "visibleAt": {
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "RegularVehicle-9",
+      "type": "regular_vehicle",
+      "properties": {},
+      "helpers": {
+        "uuid": "cde766ad-0147-4a0a-afbb-c4d12706494e",
+        "context": {
+          "18": 29891165,
+          "19": 29891165,
+          "20": 29891165,
+          "21": 29891165,
+          "22": 29891165,
+          "23": 29891165,
+          "24": 29891165,
+          "25": 29891165,
+          "26": 29891165,
+          "27": 29891165,
+          "28": 29891165,
+          "29": 29891165,
+          "30": 29891165,
+          "31": 29891165
+        },
+        "is_complete": {
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false,
+          "30": false,
+          "31": false
+        },
+        "uniqueKey": {
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "31": []
+        }
+      },
+      "visibleAt": {
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "LaneLine-18",
+      "type": "lane_line",
+      "properties": {
+        "mark_type": "SOLID_WHITE"
+      },
+      "helpers": {
+        "uuid": "line_64",
+        "connected": [
+          "line_103"
+        ],
+        "left_of": [
+          "29890169"
+        ],
+        "right_of": [],
+        "is_complete": {
+          "16": false,
+          "17": false,
+          "18": false,
+          "19": false,
+          "20": false,
+          "21": false,
+          "22": false,
+          "23": false,
+          "24": false,
+          "25": false,
+          "26": false,
+          "27": false,
+          "28": false,
+          "29": false,
+          "30": false,
+          "31": false
+        },
+        "uniqueKey": {
+          "16": [],
+          "17": [],
+          "18": [],
+          "19": [],
+          "20": [],
+          "21": [],
+          "22": [],
+          "23": [],
+          "24": [],
+          "25": [],
+          "26": [],
+          "27": [],
+          "28": [],
+          "29": [],
+          "30": [],
+          "31": []
+        }
+      },
+      "visibleAt": {
+        "16": true,
+        "17": true,
+        "18": true,
+        "19": true,
+        "20": true,
+        "21": true,
+        "22": true,
+        "23": true,
+        "24": true,
+        "25": true,
+        "26": true,
+        "27": true,
+        "28": true,
+        "29": true,
+        "30": true,
+        "31": true
+      }
+    },
+    {
+      "label": "Lane-35",
+      "type": "lane",
+      "properties": {
+        "type": "VEHICLE",
+        "direction": "same"
+      },
+      "helpers": {
+        "uuid": 29888994,
+        "left_neighbors": [],
+        "right_neighbors": [
+          "29895514"
+        ],
+        "topoTL": [],
+        "is_complete": {
+          "0": true,
+          "1": true,
+          "2": true,
+          "3": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true
+        },
+        "uniqueKey": {
+          "0": [],
+          "1": [],
+          "2": [],
+          "3": [],
+          "4": [],
+          "5": [],
+          "6": [],
+          "7": [],
+          "8": []
+        }
+      },
+      "visibleAt": {
+        "0": true,
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true,
+        "7": true,
+        "8": true
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "Ego",
+      "target": "Intersection-7",
+      "temporalLabels": {
+        "0": "is in",
+        "1": "is in",
+        "2": "is in",
+        "3": "is in",
+        "4": "is in",
+        "5": "is in",
+        "6": "is in",
+        "7": "is in",
+        "8": "is in",
+        "9": "is in",
+        "10": "is in",
+        "11": "is in",
+        "12": "is in",
+        "13": "is in",
+        "14": "is in"
+      },
+      "category": "location",
+      "label": "Ego-Intersection-7-1773755686751"
+    },
+    {
+      "source": "Crossing-6",
+      "target": "Intersection-7",
+      "temporalLabels": "is on",
+      "category": "location",
+      "label": "Crossing-6-Intersection-7-1773755686751"
+    },
+    {
+      "source": "Crossing-3",
+      "target": "Intersection-7",
+      "temporalLabels": "is on",
+      "category": "location",
+      "label": "Crossing-3-Intersection-7-1773755686751"
+    },
+    {
+      "source": "Crossing-5",
+      "target": "Intersection-7",
+      "temporalLabels": "is on",
+      "category": "location",
+      "label": "Crossing-5-Intersection-7-1773755686751"
+    },
+    {
+      "source": "Crossing-4",
+      "target": "Intersection-7",
+      "temporalLabels": "is on",
+      "category": "location",
+      "label": "Crossing-4-Intersection-7-1773755686751"
+    },
+    {
+      "source": "TrafficLight-14",
+      "target": "Crossing-4",
+      "temporalLabels": "controls",
+      "category": "regulation",
+      "label": "TrafficLight-14-Crossing-4-1773755694919"
+    },
+    {
+      "source": "Lane-26",
+      "target": "Lane-25",
+      "temporalLabels": "is left of",
+      "category": "location",
+      "label": "Lane-26-Lane-25-1773755723115"
+    },
+    {
+      "source": "Lane-25",
+      "target": "Intersection-7",
+      "temporalLabels": "approaches to the right of",
+      "category": "location",
+      "label": "Lane-25-Intersection-7-1773755725082"
+    },
+    {
+      "source": "Lane-26",
+      "target": "Intersection-7",
+      "temporalLabels": "approaches to the right of",
+      "category": "location",
+      "label": "Lane-26-Intersection-7-1773755725532"
+    },
+    {
+      "source": "TrafficSign-1",
+      "target": "Lane-26",
+      "temporalLabels": "controls",
+      "category": "regulation",
+      "label": "TrafficSign-1-Lane-26-1773755735670"
+    },
+    {
+      "source": "TrafficSign-1",
+      "target": "Lane-25",
+      "temporalLabels": "controls",
+      "category": "regulation",
+      "label": "TrafficSign-1-Lane-25-1773755741409"
+    },
+    {
+      "source": "Lane-28",
+      "target": "Lane-27",
+      "temporalLabels": "is left of",
+      "category": "location",
+      "label": "Lane-28-Lane-27-1773755754830"
+    },
+    {
+      "source": "Lane-27",
+      "target": "Intersection-7",
+      "temporalLabels": "approaches to the left of",
+      "category": "location",
+      "label": "Lane-27-Intersection-7-1773755757113"
+    },
+    {
+      "source": "Lane-28",
+      "target": "Intersection-7",
+      "temporalLabels": "approaches to the left of",
+      "category": "location",
+      "label": "Lane-28-Intersection-7-1773755757265"
+    },
+    {
+      "source": "Lane-26",
+      "target": "Lane-29",
+      "temporalLabels": "turns right into",
+      "category": "location",
+      "label": "Lane-26-Lane-29-1773755760249"
+    },
+    {
+      "source": "Ego",
+      "target": "Lane-30",
+      "temporalLabels": {
+        "15": "is in",
+        "16": "is in",
+        "17": "is in",
+        "18": "is in",
+        "19": "is in",
+        "20": "is in",
+        "21": "is in",
+        "22": "is in",
+        "23": "is in",
+        "24": "is in",
+        "25": "is in",
+        "26": "is in",
+        "27": "is in",
+        "28": "is in",
+        "29": "is in",
+        "30": "is in",
+        "31": "is in"
+      },
+      "category": "location",
+      "label": "Ego-Lane-30-1773755761332"
+    },
+    {
+      "source": "Lane-30",
+      "target": "Lane-29",
+      "temporalLabels": "is left of",
+      "category": "location",
+      "label": "Lane-30-Lane-29-1773755761332"
+    },
+    {
+      "source": "Lane-27",
+      "target": "Lane-30",
+      "temporalLabels": "turns left into",
+      "category": "location",
+      "label": "Lane-27-Lane-30-1773755761332"
+    },
+    {
+      "source": "Lane-27",
+      "target": "Lane-31",
+      "temporalLabels": "turns left into",
+      "category": "location",
+      "label": "Lane-27-Lane-31-1773755765709"
+    },
+    {
+      "source": "Lane-26",
+      "target": "Lane-31",
+      "temporalLabels": "turns right into",
+      "category": "location",
+      "label": "Lane-26-Lane-31-1773755765709"
+    },
+    {
+      "source": "Lane-32",
+      "target": "Lane-31",
+      "temporalLabels": "is left of",
+      "category": "location",
+      "label": "Lane-32-Lane-31-1773755767956"
+    },
+    {
+      "source": "Lane-29",
+      "target": "Intersection-7",
+      "temporalLabels": "leaves behind of",
+      "category": "location",
+      "label": "Lane-29-Intersection-7-1773755770589"
+    },
+    {
+      "source": "Lane-30",
+      "target": "Intersection-7",
+      "temporalLabels": "leaves behind of",
+      "category": "location",
+      "label": "Lane-30-Intersection-7-1773755771654"
+    },
+    {
+      "source": "Lane-31",
+      "target": "Intersection-7",
+      "temporalLabels": "leaves behind of",
+      "category": "location",
+      "label": "Lane-31-Intersection-7-1773755772739"
+    },
+    {
+      "source": "Lane-32",
+      "target": "Intersection-7",
+      "temporalLabels": "approaches behind of",
+      "category": "location",
+      "label": "Lane-32-Intersection-7-1773755773758"
+    },
+    {
+      "source": "Lane-25",
+      "target": "Lane-33",
+      "temporalLabels": "continues ahead into",
+      "category": "location",
+      "label": "Lane-25-Lane-33-1773755794302"
+    },
+    {
+      "source": "Lane-34",
+      "target": "Lane-33",
+      "temporalLabels": "is right of",
+      "category": "location",
+      "label": "Lane-34-Lane-33-1773755795735"
+    },
+    {
+      "source": "Lane-32",
+      "target": "Lane-34",
+      "temporalLabels": "turns right into",
+      "category": "location",
+      "label": "Lane-32-Lane-34-1773755795735"
+    },
+    {
+      "source": "Lane-26",
+      "target": "Lane-34",
+      "temporalLabels": "continues ahead into",
+      "category": "location",
+      "label": "Lane-26-Lane-34-1773755795735"
+    },
+    {
+      "source": "Lane-33",
+      "target": "Intersection-7",
+      "temporalLabels": "leaves to the left of",
+      "category": "location",
+      "label": "Lane-33-Intersection-7-1773755797598"
+    },
+    {
+      "source": "Lane-34",
+      "target": "Intersection-7",
+      "temporalLabels": "leaves to the left of",
+      "category": "location",
+      "label": "Lane-34-Intersection-7-1773755797773"
+    },
+    {
+      "source": "Bicyclist-1",
+      "target": "Lane-31",
+      "temporalLabels": {
+        "6": "is in",
+        "7": "is in",
+        "8": "is in",
+        "9": "is in",
+        "10": "is in",
+        "11": "is in",
+        "12": "is in",
+        "13": "is in",
+        "23": "is in",
+        "24": "is in",
+        "25": "is in",
+        "26": "is in",
+        "27": "is in",
+        "28": "is in",
+        "29": "is in",
+        "30": "is in",
+        "31": "is in"
+      },
+      "category": "location",
+      "label": "Bicyclist-1-Lane-31-1773755801057"
+    },
+    {
+      "source": "Bicyclist-1",
+      "target": "Lane-30",
+      "temporalLabels": {
+        "17": "is in",
+        "18": "is in",
+        "19": "is in"
+      },
+      "category": "location",
+      "label": "Bicyclist-1-Lane-30-1773755801057"
+    },
+    {
+      "source": "Bicyclist-1",
+      "target": "Intersection-7",
+      "temporalLabels": {
+        "0": "is in",
+        "1": "is in",
+        "2": "is in",
+        "3": "is in",
+        "4": "is in",
+        "5": "is in"
+      },
+      "category": "location",
+      "label": "Bicyclist-1-Intersection-7-1773755801057"
+    },
+    {
+      "source": "LaneLine-15",
+      "target": "Lane-30",
+      "temporalLabels": "is left marking of",
+      "category": "location",
+      "label": "LaneLine-15-Lane-30-1773755810294"
+    },
+    {
+      "source": "LaneLine-16",
+      "target": "Lane-29",
+      "temporalLabels": "is left marking of",
+      "category": "location",
+      "label": "LaneLine-16-Lane-29-1773755815275"
+    },
+    {
+      "source": "LaneLine-16",
+      "target": "Lane-30",
+      "temporalLabels": "is right marking of",
+      "category": "location",
+      "label": "LaneLine-16-Lane-30-1773755815275"
+    },
+    {
+      "source": "LaneLine-17",
+      "target": "Lane-31",
+      "temporalLabels": "is left marking of",
+      "category": "location",
+      "label": "LaneLine-17-Lane-31-1773755820299"
+    },
+    {
+      "source": "LaneLine-17",
+      "target": "Lane-32",
+      "temporalLabels": "is left marking of",
+      "category": "location",
+      "label": "LaneLine-17-Lane-32-1773755820299"
+    },
+    {
+      "source": "BoxTruck-1",
+      "target": "Lane-29",
+      "temporalLabels": {
+        "22": "is in",
+        "23": "is in",
+        "24": "is in",
+        "25": "is in",
+        "26": "is in",
+        "27": "is in",
+        "28": "is in",
+        "29": "is in",
+        "30": "is in",
+        "31": "is in"
+      },
+      "category": "location",
+      "label": "BoxTruck-1-Lane-29-1773755838316"
+    },
+    {
+      "source": "RegularVehicle-9",
+      "target": "Lane-29",
+      "temporalLabels": {
+        "18": "is in",
+        "19": "is in",
+        "20": "is in",
+        "21": "is in",
+        "22": "is in",
+        "23": "is in",
+        "24": "is in",
+        "25": "is in",
+        "26": "is in",
+        "27": "is in",
+        "28": "is in",
+        "29": "is in",
+        "30": "is in",
+        "31": "is in"
+      },
+      "category": "location",
+      "label": "RegularVehicle-9-Lane-29-1773755840001"
+    },
+    {
+      "source": "LaneLine-18",
+      "target": "LaneLine-15",
+      "temporalLabels": "is changing into",
+      "category": "location",
+      "label": "LaneLine-18-LaneLine-15-1773755860427"
+    },
+    {
+      "source": "LaneLine-18",
+      "target": "Lane-30",
+      "temporalLabels": "is left marking of",
+      "category": "location",
+      "label": "LaneLine-18-Lane-30-1773755860427"
+    },
+    {
+      "source": "Lane-31",
+      "target": "Lane-30",
+      "temporalLabels": "is left of",
+      "category": "location",
+      "label": "Lane-31-Lane-30-1773755878805"
+    },
+    {
+      "source": "Lane-32",
+      "target": "Lane-35",
+      "temporalLabels": "turns left into",
+      "category": "location",
+      "label": "Lane-32-Lane-35-1773755933929"
+    },
+    {
+      "source": "Lane-27",
+      "target": "Lane-35",
+      "temporalLabels": "continues ahead into",
+      "category": "location",
+      "label": "Lane-27-Lane-35-1773755933929"
+    },
+    {
+      "source": "Lane-35",
+      "target": "Intersection-7",
+      "temporalLabels": "leaves to the right of",
+      "category": "location",
+      "label": "Lane-35-Intersection-7-1773755936212"
+    }
+  ],
+  "counterRef": {
+    "lane": 35,
+    "lane_line": 18,
+    "intersection": 7,
+    "stop_sign": 1,
+    "traffic_light": 14,
+    "truck": 2,
+    "regular_vehicle": 9,
+    "crossing": 6,
+    "large_vehicle": 2,
+    "sign": 1,
+    "bicyclist": 1,
+    "box_truck": 1
+  },
+  "logid": "49a9df80-ab0a-31fb-9341-a79f7b0258dd"
+}

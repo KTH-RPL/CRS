@@ -1,0 +1,4 @@
+networkx>=3.5
+numpy>=2.2
+shapely>=2.1
+tqdm>=4.67
